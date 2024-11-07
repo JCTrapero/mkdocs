@@ -1,4 +1,4 @@
-# Instalación de Python 3.12
+# Instalación de Python 3.12.7
 
 ## Requisitos previos
 

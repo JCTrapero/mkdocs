@@ -1,5 +1,3 @@
 # Licencia
 
 ## OpenSource
-
-### Peito

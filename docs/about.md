@@ -1,3 +1,3 @@
 # Acerca de
 
-## Autor: Juan Carlos Trapero Sánchez
+Copyright &copy; 2024 Juan Carlos Trapero Sánchez

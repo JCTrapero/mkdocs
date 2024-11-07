@@ -4,12 +4,12 @@ site_url: http://127.0.0.1
 nav:
   - Home: index.md
   - Install: install.md
-  - About: about.md
   - Diagramas:
       - Clases: diagramas/Ej_Mermaid Clases.md
       - Gantt: diagramas/Ej_Mermaid Gantt.md
       - MindMap: diagramas/Ej_Mermaid MindMap.md
       - Secuencia: diagramas/Ej_Mermaid Secuencia.md
+  - About: about.md
   - Licencia: license.md
 
 theme:

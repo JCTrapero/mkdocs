@@ -6,10 +6,10 @@ nav:
   - Install: install.md
   - About: about.md
   - Diagramas:
-      - Diagrama de Clases/Ej_Mermaid Clases.md
-      - Diagrama de Gantt/Ej_Gantt Secuencia.md
-      - Diagrama de MinMap/Ej_MindMap Secuencia.md
-      - Diagrama de Secuencia/Ej_Mermaid Secuencia.md
+      - Clases: diagramas/Ej_Mermaid Clases.md
+      - Gantt: diagramas/Ej_Mermaid Gantt.md
+      - MindMap: diagramas/Ej_Mermaid MindMap.md
+      - Secuencia: diagramas/Ej_Mermaid Secuencia.md
   - Licencia: license.md
 
 theme:

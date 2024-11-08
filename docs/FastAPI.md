@@ -32,3 +32,5 @@ Para ello,
 !!! danger "Yazmín"
 
     Tienes que hacer más test para aprobar el teórico y dejar la :beer:
+
+    Y :woman_lifting_weights_tone3: 

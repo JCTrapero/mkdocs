@@ -4,7 +4,7 @@
 
 1. **Usando GitHub, realizar un fork del repositorio fastapi/fastapi**
 
-Ej. FastAPI_fork
+    !!! note annotate "Ej. FastAPI_fork)"
 
 2. **Clonar el fork en local**
 

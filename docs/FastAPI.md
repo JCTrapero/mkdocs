@@ -33,4 +33,4 @@ Para ello,
 
     Tienes que hacer más test para aprobar el teórico y dejar la :beer:
 
-    Y :woman_lifting_weights_tone3: 
+    Y a hacer :woman_lifting_weights_tone3: 

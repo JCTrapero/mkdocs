@@ -4,7 +4,7 @@
 
 1. **Usando GitHub, realizar un fork del repositorio fastapi/fastapi**
 
-    !!! note annotate "Ej. FastAPI_fork)"
+    !!! note annotate "Ej. **FastAPI_fork**"
 
 2. **Clonar el fork en local**
 
@@ -15,14 +15,14 @@
 
 Para ello, 
 
-    ```sh
+```sh
     python -m venv -venv
-    ```
+```
 
 ### Instalación de librerías de Python requeridas
 
 Para ello, 
 
-    ```sh
+```sh
     pip -r requirements.txt
-    ```
+```

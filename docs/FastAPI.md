@@ -28,7 +28,3 @@ Para ello,
 ```sh
     pip install -r requirements.txt
 ```
-
-!!! danger "Yazmín"
-
-    Tienes que hacer más test para aprobar el teórico. Así que a dejar la :beer: y haga más test :woman_lifting_weights_tone3: 

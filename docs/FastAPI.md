@@ -4,7 +4,7 @@
 
 1. **Usando GitHub, realizar un fork del repositorio fastapi/fastapi**
 
-    !!! note annotate "Ej. **FastAPI_fork**"
+!!! note annotate "Ej. **FastAPI_fork**"
 
 2. **Clonar el fork en local**
 
@@ -19,7 +19,7 @@ Para ello,
     python -m venv -venv
 ```
 
-    !!! note annotate Modificar el fichero .gitignore añadiendo .venv
+!!! note annotate "Modificar el fichero .gitignore añadiendo .venv"
 
 ### Instalación de librerías de Python requeridas
 

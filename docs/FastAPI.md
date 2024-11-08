@@ -26,5 +26,5 @@ Para ello,
 Para ello, 
 
 ```sh
-    pip -r requirements.txt
+    pip install -r requirements.txt
 ```

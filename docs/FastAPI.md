@@ -9,12 +9,20 @@
 2. **Clonar el fork en local**
 
 
-## Instalación de librerías de Python requeridas
+## Python: Preparación del entorno
+
+### Creación del entorno virtual
 
 Para ello, 
 
-1. **Actualizar el sistema:**
+    ```sh
+    python -m venv -venv
+    ```
 
-    ```python
+### Instalación de librerías de Python requeridas
+
+Para ello, 
+
+    ```sh
     pip -r requirements.txt
     ```

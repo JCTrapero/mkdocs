@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>http://127.0.0.1/</loc>
+         <lastmod>2024-11-08</lastmod>
+    </url>
+    <url>
+         <loc>http://127.0.0.1/FastAPI/</loc>
+         <lastmod>2024-11-08</lastmod>
+    </url>
+    <url>
+         <loc>http://127.0.0.1/about/</loc>
+         <lastmod>2024-11-08</lastmod>
+    </url>
+    <url>
+         <loc>http://127.0.0.1/license/</loc>
+         <lastmod>2024-11-08</lastmod>
+    </url>
+    <url>
+         <loc>http://127.0.0.1/diagramas/Ej_Mermaid%20Clases/</loc>
+         <lastmod>2024-11-08</lastmod>
+    </url>
+    <url>
+         <loc>http://127.0.0.1/diagramas/Ej_Mermaid%20Gantt/</loc>
+         <lastmod>2024-11-08</lastmod>
+    </url>
+    <url>
+         <loc>http://127.0.0.1/diagramas/Ej_Mermaid%20MindMap/</loc>
+         <lastmod>2024-11-08</lastmod>
+    </url>
+    <url>
+         <loc>http://127.0.0.1/diagramas/Ej_Mermaid%20Secuencia/</loc>
+         <lastmod>2024-11-08</lastmod>
+    </url>
+</urlset>

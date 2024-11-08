@@ -3,7 +3,7 @@ site_url: http://127.0.0.1
 
 nav:
   - Home: index.md
-  - Install: FastAPI.md
+  - FastAPI Translate: FastAPI.md
   - Diagramas:
       - Clases: diagramas/Ej_Mermaid Clases.md
       - Gantt: diagramas/Ej_Mermaid Gantt.md

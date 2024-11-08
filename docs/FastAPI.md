@@ -31,4 +31,4 @@ Para ello,
 
 !!! danger "Yazmín"
 
-    Tienes que hacer más test para aprobar el teórico y dejar la :beer: y a hacer test :woman_lifting_weights_tone3: 
+    Tienes que hacer más test para aprobar el teórico. Así que a dejar la :beer: y haga más test :woman_lifting_weights_tone3: 

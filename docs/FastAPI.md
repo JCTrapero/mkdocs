@@ -28,3 +28,7 @@ Para ello,
 ```sh
     pip install -r requirements.txt
 ```
+
+!!! danger "Yazmín"
+
+    Tienes que hacer más test para aprobar el teórico y dejar la :beer:

@@ -1,4 +1,4 @@
-# Contribución a la traducción de FastAPI (es)
+# **Contribución a la traducción de FastAPI (es)**
 
 ## Requisitos previos
 
@@ -18,6 +18,8 @@ Para ello,
 ```sh
     python -m venv -venv
 ```
+
+    !!! note annotate Modificar el fichero .gitignore añadiendo .venv
 
 ### Instalación de librerías de Python requeridas
 
